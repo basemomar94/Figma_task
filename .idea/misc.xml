@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/FigmaTask/app/src/main/res/drawable/ic_baseline_arrow_right_alt_24.xml" value="0.3828125" />
+        <entry key="..\:/FigmaTask/app/src/main/res/drawable/ic_baseline_circle_24.xml" value="0.35555555555555557" />
+        <entry key="..\:/FigmaTask/app/src/main/res/drawable/ic_baseline_circle_black.xml" value="0.35555555555555557" />
+        <entry key="..\:/FigmaTask/app/src/main/res/drawable/ic_baseline_circle_blue.xml" value="0.35555555555555557" />
+        <entry key="..\:/FigmaTask/app/src/main/res/drawable/ic_baseline_circle_red.xml" value="0.35555555555555557" />
+        <entry key="..\:/FigmaTask/app/src/main/res/drawable/ic_outline_circle_24.xml" value="0.35555555555555557" />
+        <entry key="..\:/FigmaTask/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/FigmaTask/app/src/main/res/layout/paintview.xml" value="0.19746376811594202" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
